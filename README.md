@@ -1,2 +1,3 @@
 # Cursoemvideo0
-Resoluções da lista de exercícios do curso do Gustavo Guanabara de Python :snake:
+Resoluções de exercícios da lista do curso do Gustavo Guanabara de Python
+
